@@ -9,6 +9,6 @@ $ _ ['error_permission'] = 'Cảnh báo: Bạn không có quyền truy cập và
 $ _ ['error_voucher']    = 'Cảnh báo: Phiếu quà tặng là không hợp lệ hoặc số dư đã được sử dụng hết!';
 $ _ ['error_to_name']    = 'Tên của người nhận phải từ 1 đến 64 ký tự!';
 $ _ ['error_from_name']  = 'Tên bạn phải từ 1 đến 64 ký tự!';
-$ _ ['error_email']      = 'Địa chỉ E-Mail có vẻ không hợp lệ!';
+$ _ ['error_email']      = 'Địa chỉ email không hợp lệ!';
 $ _ ['error_theme']      = 'Bạn phải chọn chủ đề!';
 $ _ ['error_amount']     = 'Số lượng phải nằm giữa %s và %s!';

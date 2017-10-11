@@ -11,14 +11,14 @@ $_['text_success']       = 'Thành công: Tài khoản của bạn đã được
 // Entry
 $_['entry_firstname']    = 'Tên';
 $_['entry_lastname']     = 'Họ và tên lót';
-$_['entry_email']        = 'E-Mail';
+$_['entry_email']        = 'Email';
 $_['entry_telephone']    = 'Điện thoại';
 $_['entry_fax']          = 'Số Fax';
 
 // Error
-$_['error_exists']                = 'Lỗi: E-Mail đã có người sử dụng!';
-$_['error_firstname']             = 'Tên phải từ 1 đến 32 kí tự!';
-$_['error_lastname']              = 'Họ và tên lót phải từ 1 đến 32 kí tự!';
-$_['error_email']                 = 'E-Mail không hợp lệ!';
-$_['error_telephone']             = 'Điện thoại phải từ 3 đến 32 kí tự!';
-$_['error_custom_field']          = '%s không được để trống!';
+$_['error_exists']       = 'Lỗi: Email đã có người sử dụng!';
+$_['error_firstname']    = 'Lỗi: Tên phải từ 1 đến 32 kí tự!';
+$_['error_lastname']     = 'Lỗi: Họ và tên lót phải từ 1 đến 32 kí tự!';
+$_['error_email']        = 'Lỗi: Email không hợp lệ!';
+$_['error_telephone']    = 'Lỗi: Số điện thoại phải từ 3 đến 32 kí tự!';
+$_['error_custom_field'] = '%s không được để trống!';

@@ -17,7 +17,7 @@ $_['entry_from_name']  = 'Tên Bạn';
 $_['entry_from_email'] = 'Email của Bạn';
 $_['entry_theme']      = 'Mẫu phiếu Quà tặng';
 $_['entry_message']    = 'Tin nhắn';
-$_['entry_amount']     = 'Số tiền tặn';
+$_['entry_amount']     = 'Số tiền tặng';
 
 // Help
 $_['help_message']     = 'Tùy chọn';
@@ -26,7 +26,7 @@ $_['help_amount']      = 'Số tiền tặng phải từ %s đến %s';
 // Error
 $_['error_to_name']    = 'Tên người nhận từ 1 đến 64 kí tự!';
 $_['error_from_name']  = 'Tên bạn từ 1 đến 64 kí tựs!';
-$_['error_email']      = 'Địa chỉ E-Mail không hợp lệ!';
+$_['error_email']      = 'Địa chỉ email không hợp lệ!';
 $_['error_theme']      = 'Bạn phải chọn một mẫu!';
 $_['error_amount']     = 'Số tiền tặng phải từ %s đến %s!';
 $_['error_agree']      = 'Lỗi: Bạn phải đồng ý với điều khoản phiếu Quà tặng không được hoàn tiền!';

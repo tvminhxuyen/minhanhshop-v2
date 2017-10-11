@@ -13,7 +13,7 @@ $_['text_i_am_returning_customer'] = 'Tôi là khách hàng cũ';
 $_['text_forgotten']               = 'Quên mật khẩu';
 
 // Entry
-$_['entry_email']                  = 'Địa chỉ E-Mail';
+$_['entry_email']                  = 'Địa chỉ email';
 $_['entry_password']               = 'Mật khẩu';
 
 // Error

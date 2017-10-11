@@ -15,7 +15,7 @@ $_['text_success']   = '<p>Yêu cầu của bạn đã được gửi tới ch�
 
 // Entry
 $_['entry_name']     = 'Họ & Tên';
-$_['entry_email']    = 'Địa chỉ E-Mail';
+$_['entry_email']    = 'Địa chỉ email';
 $_['entry_enquiry']  = 'Nội dung';
 
 // Email

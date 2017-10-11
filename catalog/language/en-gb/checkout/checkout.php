@@ -48,8 +48,8 @@ $_['column_price']                   = 'Đơn giá';
 $_['column_total']                   = 'Tổng cộng';
 
 // Entry
-$_['entry_email_address']            = 'Địa chỉ E-Mail';
-$_['entry_email']                    = 'E-Mail';
+$_['entry_email_address']            = 'Địa chỉ email';
+$_['entry_email']                    = 'Email';
 $_['entry_password']                 = 'Mật khẩu';
 $_['entry_confirm']                  = 'Xác nhận mật khẩu';
 $_['entry_firstname']                = 'Tên';
@@ -76,7 +76,7 @@ $_['error_approved']                 = 'Cảnh báo: Tài khoản của bạn c�
 $_['error_exists']                   = 'Cảnh báo: Địa chỉ email đã được đăng ký!';
 $_['error_firstname']                = 'Tên phải từ 1 đến 32 kí tự!';
 $_['error_lastname']                 = 'Họ và tên lót phải từ 1 đến 32 kí tự!';
-$_['error_email']                    = 'E-Mail không hợp lệ!';
+$_['error_email']                    = 'Email không hợp lệ!';
 $_['error_telephone']                = 'Điện thoại phải từ 3 đến 32 kí tự!';
 $_['error_password']                 = 'Mật khẩu phải từ 4 đến 20 kí tự!';
 $_['error_confirm']                  = 'Nhập lại mật khẩu không chính xác!';
@@ -85,10 +85,10 @@ $_['error_city']                     = 'Quận / Huyện phải từ 2 đến 12
 $_['error_postcode']                 = 'Mã Bưu Điện phải từ 2 đến 10 kí tự!';
 $_['error_country']                  = 'Vui lòng chọn quốc gia!';
 $_['error_zone']                     = 'Vui lòng chọn Tỉnh / Thành phố!';
-$_['error_agree']                    = 'Cảnh báo: Bạn phải đồng ý với điều khoản %s!';
-$_['error_address']                  = 'Cảnh báo: Bạn phải chọn địa chỉ!';
-$_['error_shipping']                 = 'Cảnh báo: Thiếu phương thức vận chuyển!';
-$_['error_no_shipping']              = 'Cảnh báo: Không có tùy chọn phương thức vận chuyển. Vui lòng <a href="%s">liên hệ chúng tôi</a> để được tư vấn!';
-$_['error_payment']                  = 'Cảnh báo: Thiếu phương thức thanh toán!';
-$_['error_no_payment']               = 'Cảnh báo: Không có tùy chọn phương thức thanh toán. Vui lòng <a href="%s">liên hệ chúng tôi</a> để được tư vấn!';
+$_['error_agree']                    = 'Lỗi: Bạn phải đồng ý với điều khoản %s!';
+$_['error_address']                  = 'Lỗi: Bạn phải chọn địa chỉ!';
+$_['error_shipping']                 = 'Lỗi: Thiếu phương thức vận chuyển!';
+$_['error_no_shipping']              = 'Lỗi: Không có tùy chọn phương thức vận chuyển. Vui lòng <a href="%s">liên hệ chúng tôi</a> để được tư vấn!';
+$_['error_payment']                  = 'Lỗi: Thiếu phương thức thanh toán!';
+$_['error_no_payment']               = 'Lỗi: Không có tùy chọn phương thức thanh toán. Vui lòng <a href="%s">liên hệ chúng tôi</a> để được tư vấn!';
 $_['error_custom_field']             = '%s không được để trống!';

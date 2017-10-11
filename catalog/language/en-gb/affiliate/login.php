@@ -13,7 +13,7 @@ $_['text_i_am_returning_affiliate'] = 'Tôi đã là Affiliate.';
 $_['text_forgotten']                = 'Quên mật khẩu';
 
 // Entry
-$_['entry_email']                   = 'E-Mail - Affiliate:';
+$_['entry_email']                   = 'Email - Liên kết:';
 $_['entry_password']                = 'Mật Khẩu:';
 
 // Error
