@@ -14,4 +14,4 @@ $_['text_account']      = 'Tài khoản';
 $_['text_order']        = 'Lịch sử đơn hàng';
 $_['text_wishlist']     = 'Danh sách yêu thích';
 $_['text_newsletter']   = 'Thư thông báo';
-$_['text_powered']      = 'Bản quyền thuộc về &copy; <a href="http://minhanhshop.net">minhanhshop.net</a>.';
+$_['text_powered']      = '&copy; 2015 - Bản quyền thuộc về MinhAnhShop - <a href="http://minhanhshop.net">minhanhshop.net</a>';

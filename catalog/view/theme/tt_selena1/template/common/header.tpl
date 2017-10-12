@@ -76,7 +76,8 @@
 				<?php } ?>
 				</div>
 			</div>
-			<div class="col-md-9 col-sm-12 col-header">
+			<div class="col-md-3 col-sm-12 col-header"></div>
+			<div class="col-md-6 col-sm-12 col-header">
 				<div class="header-link">
 					<ul class="list-unstyled pull-left">
 						<li>
@@ -93,35 +94,15 @@
 									<li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
 									<li><a href="<?php echo $transaction; ?>"><?php echo $text_transaction; ?></a></li>
 									<li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>				
-									<li>
-										<?php if($use_ajax_login): ?>
-											<a id="a-logout-link" href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a>
-										<?php else: ?>
-											<a href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a>
-										<?php endif; ?>
-									</li>			
+									<li><a href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a></li>
 									<?php } else { ?>
-									<li>
-										<?php if($use_ajax_login): ?> 
-											<a id="a-register-link" href="<?php echo $register; ?>"><?php echo $text_register; ?></a>
-										<?php else: ?>
-											<a href="<?php echo $register; ?>"><?php echo $text_register; ?></a> 
-										<?php endif; ?>
-									</li>
-									<li>
-										<?php if($use_ajax_login): ?> 
-											<a id="a-login-link" href="<?php echo $login; ?>"><?php echo $text_login; ?></a>
-										<?php else: ?>
-											<a href="<?php echo $login; ?>"><?php echo $text_login; ?></a> 
-										<?php endif; ?>
-									</li>
+									<li><a href="<?php echo $register; ?>"><?php echo $text_register; ?></a></li>
+									<li><a href="<?php echo $login; ?>"><?php echo $text_login; ?></a></li>
 									<?php } ?>
 								</ul>
 								</div>
 							</div>
 						</li>
-						<li><?php echo $currency; ?></li>
-						<li><?php echo $language; ?></li>
 					</ul>
 			   </div>
 				<?php echo $search; ?>
