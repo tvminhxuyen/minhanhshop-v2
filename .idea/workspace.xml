@@ -2,75 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1928d0eb-82fa-42be-8738-35254f2c7c0c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.cmsblock.1.1507811436" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.cmsblock.1.1507900448" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.country.admin.1507810695" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.country.catalog.1507898639" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.currency.1507812046" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.currency.1507897075" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.information.1.1507810695" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.language.1507810399" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.language.1507900447" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.length_class.1.1507810244" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.length_class.1.1507899965" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.order_status.1.1507811985" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.order_status.1.1507900499" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.product.bestseller.1.0.1.12.1507812329" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.product.bestseller.1.0.1.12.1507900594" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.return_status.1.1507810695" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.stock_status.1.1507810244" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.stock_status.1.1507899965" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.store.1507811985" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.store.1507900499" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.tax_class.1507810244" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.tax_class.1507899965" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.weight_class.1.1507810244" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.weight_class.1.1507899965" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.zone.230.1507810696" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.zone.230.1507898640" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/AjaxLoader-100x100.gif" afterPath="$PROJECT_DIR$/image/cache/catalog/AjaxLoader-100x100.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/blog/hhvn-346x241.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/blog/hhvn-346x241.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/blog/hhvn-465x450.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/blog/hhvn-465x450.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/brandlogo/1-120x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/brandlogo/1-120x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/brandlogo/2-120x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/brandlogo/2-120x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/brandlogo/3-120x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/brandlogo/3-120x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/brandlogo/4-120x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/brandlogo/4-120x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/brandlogo/5-120x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/brandlogo/5-120x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/brandlogo/6-120x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/brandlogo/6-120x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/1-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/1-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/10-140x140.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/10-140x140.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/11-140x140.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/11-140x140.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/11-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/11-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/11-80x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/11-80x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/12-140x140.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/12-140x140.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/13-140x140.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/13-140x140.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/13-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/13-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/14-140x140.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/14-140x140.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/14-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/14-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/14-80x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/14-80x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/15-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/15-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/15-80x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/15-80x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/16-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/16-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/17-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/17-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/2-100x100.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/2-100x100.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/2-140x140.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/2-140x140.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/2-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/2-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/3-140x140.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/3-140x140.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/3-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/3-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/3-80x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/3-80x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/4-100x100.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/4-100x100.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/4-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/4-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/4-80x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/4-80x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/6-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/6-300x300.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/6-80x80.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/6-80x80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/Kem lily's White-500x500-600x600.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/Kem lily's White-500x500-600x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/Nano White/nano 1-1000x1000.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/Nano White/nano 1-1000x1000.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/Nano White/nano 1-600x600.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/Nano White/nano 1-600x600.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/Nano White/nano 2-1000x1000.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/Nano White/nano 2-1000x1000.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/products/Nano White/nano 2-300x300.jpg" afterPath="$PROJECT_DIR$/image/cache/catalog/products/Nano White/nano 2-300x300.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.cmsblock.1.1508103600" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.language.1508103264" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.length_class.1.1508103265" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.order_status.1.1508102024" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.product.bestseller.1.0.1.12.1508105034" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.stock_status.1.1508103265" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.store.1508102021" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.tax_class.1508103265" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.weight_class.1.1508103265" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config.php" afterPath="$PROJECT_DIR$/admin/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/register.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/register.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_selena1/stylesheet/stylesheet.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_selena1/stylesheet/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/system/storage/logs/error.log" />
     </list>
     <ignored path="minhanhshop.iws" />
@@ -94,21 +37,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tt_selena_test_2017-10-13_14-20-27_backup.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/database/tt_selena_test_2017-10-13_14-20-27_backup.sql">
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_selena1/stylesheet/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="1408" column="169" lean-forward="false" selection-start-line="1408" selection-start-column="169" selection-end-line="1408" selection-end-column="169" />
+            <state relative-caret-position="46716">
+              <caret line="2748" column="12" lean-forward="false" selection-start-line="2748" selection-start-column="12" selection-end-line="2748" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tt_selena.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/tt_selena.sql">
+      <file leaf-file-name="checkout.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/checkout/checkout.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="3316" column="15" lean-forward="false" selection-start-line="3316" selection-start-column="15" selection-end-line="3316" selection-end-column="15" />
+            <state relative-caret-position="323">
+              <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment_address.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/checkout/payment_address.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="101" lean-forward="false" selection-start-line="39" selection-start-column="101" selection-end-line="39" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guest.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/checkout/guest.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2669">
+              <caret line="157" column="94" lean-forward="false" selection-start-line="157" selection-start-column="94" selection-end-line="157" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/checkout/register.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order_form.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/view/template/sale/order_form.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7395">
+              <caret line="435" column="22" lean-forward="false" selection-start-line="435" selection-start-column="22" selection-end-line="435" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flat.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/flat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mashop_db_2017-10-15_23-08-41_backup.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/mashop_db_2017-10-15_23-08-41_backup.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25364">
+              <caret line="1492" column="1464" lean-forward="false" selection-start-line="1492" selection-start-column="1464" selection-end-line="1492" selection-end-column="1464" />
               <folding />
             </state>
           </provider>
@@ -120,6 +123,9 @@
     <findStrings>
       <find>Free delivery on all orders over $99</find>
       <find>GREAT OFFERS</find>
+      <find>input-payment-company</find>
+      <find>input-payment-fax</find>
+      <find>Flat Shipping Rate</find>
     </findStrings>
     <dirStrings>
       <dir>D:\SERVER\htdocs\v2\minhanhshop-v2</dir>
@@ -131,10 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/total/reward.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/total/shipping.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/total/voucher.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/pickup.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/bestseller.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/latest.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/ocajaxlogin.php" />
@@ -182,6 +184,10 @@
         <option value="$PROJECT_DIR$/catalog/language/en-gb/account/logout.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/common/footer.php" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_selena1/template/common/header.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_selena1/stylesheet/stylesheet.css" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/guest.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/payment_address.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/register.tpl" />
       </list>
     </option>
   </component>
@@ -212,45 +218,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
+              <option name="myItemId" value="minhanhshop-v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
+              <option name="myItemId" value="minhanhshop-v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
+              <option name="myItemId" value="minhanhshop-v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
+              <option name="myItemId" value="minhanhshop-v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -258,35 +245,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
+              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
+              <option name="myItemId" value="minhanhshop-v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="minhanhshop" />
+              <option name="myItemId" value="minhanhshop-v2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -295,6 +273,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -304,6 +284,12 @@
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -365,11 +351,14 @@
       <workItem from="1507893064849" duration="10000" />
       <workItem from="1508087145110" duration="197000" />
       <workItem from="1508088960704" duration="709000" />
+      <workItem from="1508613457665" duration="88000" />
+      <workItem from="1508698131943" duration="2407000" />
+      <workItem from="1508953257958" duration="586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23511000" />
+    <option name="totallyTimeSpent" value="26592000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,7 +376,6 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25078124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33433282" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -398,6 +386,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33433282" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -421,62 +410,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/payment/nochex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/free.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/item.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/usps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/pickup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/parcelforce_48.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/account.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/account/download.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/account/account.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -764,18 +697,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/database/tt_selena_test_2017-10-13_14-20-27_backup.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1408" column="169" lean-forward="false" selection-start-line="1408" selection-start-column="169" selection-end-line="1408" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/database/tt_selena.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="17">
           <caret line="3316" column="15" lean-forward="false" selection-start-line="3316" selection-start-column="15" selection-end-line="3316" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_selena1/stylesheet/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46716">
+          <caret line="2748" column="12" lean-forward="false" selection-start-line="2748" selection-start-column="12" selection-end-line="2748" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/tt_selena_test_2017-10-13_14-20-27_backup.sql">
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/checkout/checkout.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="1408" column="169" lean-forward="false" selection-start-line="1408" selection-start-column="169" selection-end-line="1408" selection-end-column="169" />
+        <state relative-caret-position="323">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/checkout/guest.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2669">
+          <caret line="157" column="94" lean-forward="false" selection-start-line="157" selection-start-column="94" selection-end-line="157" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/checkout/payment_address.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="101" lean-forward="false" selection-start-line="39" selection-start-column="101" selection-end-line="39" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/checkout/register.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/sale/order_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7395">
+          <caret line="435" column="22" lean-forward="false" selection-start-line="435" selection-start-column="22" selection-end-line="435" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mashop_db_2017-10-15_23-08-41_backup.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25364">
+          <caret line="1492" column="1464" lean-forward="false" selection-start-line="1492" selection-start-column="1464" selection-end-line="1492" selection-end-column="1464" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/flat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="44" />
           <folding />
         </state>
       </provider>

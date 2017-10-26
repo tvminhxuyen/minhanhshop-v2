@@ -441,3 +441,7 @@
 2017-10-15 18:51:56 - PHP Notice:  Undefined index: USD in D:\SERVER\htdocs\v2\minhanhshop-v2\system\library\cart\currency.php on line 26
 2017-10-15 18:51:56 - PHP Notice:  Undefined index: USD in D:\SERVER\htdocs\v2\minhanhshop-v2\system\library\cart\currency.php on line 27
 2017-10-15 18:51:56 - PHP Notice:  Undefined index: USD in D:\SERVER\htdocs\v2\minhanhshop-v2\system\library\cart\currency.php on line 30
+2017-10-22 20:57:20 - PHP Notice:  Undefined index: fax in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 14
+2017-10-22 20:57:20 - PHP Notice:  Undefined index: company in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18
+2017-10-22 20:57:20 - PHP Notice:  Undefined index: address_2 in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18
+2017-10-22 20:57:20 - PHP Notice:  Undefined index: postcode in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18

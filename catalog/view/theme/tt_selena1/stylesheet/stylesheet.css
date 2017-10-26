@@ -2736,10 +2736,12 @@ button.btn-wishlist:hover {
 	content: "\f349";
 }
 .banner-home .des-center .title:before{
-	content: "\f36f";
+	/*content: "\f36f";*/
+	content: "\f349";
 }
 .banner-home .des-bottom .title:before{
-	content: "\f357";
+	/*content: "\f357";*/
+	content: "\f349";
 }
 .banner-home .des .col .text{
 	background: #fff;
