@@ -445,3 +445,7 @@
 2017-10-22 20:57:20 - PHP Notice:  Undefined index: company in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18
 2017-10-22 20:57:20 - PHP Notice:  Undefined index: address_2 in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18
 2017-10-22 20:57:20 - PHP Notice:  Undefined index: postcode in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18
+2017-11-08 18:11:12 - PHP Notice:  Undefined index: fax in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 14
+2017-11-08 18:11:12 - PHP Notice:  Undefined index: company in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18
+2017-11-08 18:11:12 - PHP Notice:  Undefined index: address_2 in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18
+2017-11-08 18:11:12 - PHP Notice:  Undefined index: postcode in D:\SERVER\htdocs\v2\minhanhshop-v2\catalog\model\account\customer.php on line 18

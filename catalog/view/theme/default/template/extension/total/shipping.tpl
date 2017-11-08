@@ -28,12 +28,6 @@
             </select>
           </div>
         </div>
-        <div class="form-group required">
-          <label class="col-sm-2 control-label" for="input-postcode"><?php echo $entry_postcode; ?></label>
-          <div class="col-sm-10">
-            <input type="text" name="postcode" value="<?php echo $postcode; ?>" placeholder="<?php echo $entry_postcode; ?>" id="input-postcode" class="form-control" />
-          </div>
-        </div>
         <button type="button" id="button-quote" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-primary"><?php echo $button_quote; ?></button>
       </div>
       <script type="text/javascript"><!--

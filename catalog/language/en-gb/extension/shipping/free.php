@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Giao hàng miễn phí';
-$_['text_description'] = 'Giao hàng miễn phí';
+$_['text_title']       = 'Miễn phí vận chuyển:';
+$_['text_description'] = 'Chỉ đối với các hóa đơn trên 500.000đ';

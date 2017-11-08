@@ -9,8 +9,8 @@ $_['text_login']               = 'Lưu ý: Bạn phải <a href="%s">đăng nh�
 $_['text_items']               = '<span class="item-cart">%s</span>';
 $_['text_items2']              = '<span class="item-cart">%s</span>';
 $_['text_points']              = 'Điểm thưởng: %s';
-$_['text_next']                = 'Bạn muốn làm gì tiếp theo?';
-$_['text_next_choice']         = 'Chọn nếu bạn muốn sử dụng Điểm thưởng; mã Giảm giá (Coupon code); Phiếu quà tặng (Voucher) hoặc Ước tính phí vận chuyển:';
+$_['text_next']                = 'Áp dụng khuyến mãi và phí vận chuyển';
+$_['text_next_choice']         = 'Sử dụng mã Giảm giá (Coupon code); Phiếu quà tặng (Voucher) hoặc Ước tính phí vận chuyển:';
 $_['text_empty']               = 'Giỏ hàng của bạn đang trống!';
 $_['text_day']                 = 'ngày';
 $_['text_week']                = 'tuần';

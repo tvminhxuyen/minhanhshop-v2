@@ -35,12 +35,6 @@
               <?php } ?>
             </div>
           </div>
-          <div class="form-group">
-            <label class="col-sm-2 control-label" for="input-company"><?php echo $entry_company; ?></label>
-            <div class="col-sm-10">
-              <input type="text" name="company" value="<?php echo $company; ?>" placeholder="<?php echo $entry_company; ?>" id="input-company" class="form-control" />
-            </div>
-          </div>
           <div class="form-group required">
             <label class="col-sm-2 control-label" for="input-address-1"><?php echo $entry_address_1; ?></label>
             <div class="col-sm-10">
@@ -50,27 +44,12 @@
               <?php } ?>
             </div>
           </div>
-          <div class="form-group">
-            <label class="col-sm-2 control-label" for="input-address-2"><?php echo $entry_address_2; ?></label>
-            <div class="col-sm-10">
-              <input type="text" name="address_2" value="<?php echo $address_2; ?>" placeholder="<?php echo $entry_address_2; ?>" id="input-address-2" class="form-control" />
-            </div>
-          </div>
           <div class="form-group required">
             <label class="col-sm-2 control-label" for="input-city"><?php echo $entry_city; ?></label>
             <div class="col-sm-10">
               <input type="text" name="city" value="<?php echo $city; ?>" placeholder="<?php echo $entry_city; ?>" id="input-city" class="form-control" />
               <?php if ($error_city) { ?>
               <div class="text-danger"><?php echo $error_city; ?></div>
-              <?php } ?>
-            </div>
-          </div>
-          <div class="form-group required">
-            <label class="col-sm-2 control-label" for="input-postcode"><?php echo $entry_postcode; ?></label>
-            <div class="col-sm-10">
-              <input type="text" name="postcode" value="<?php echo $postcode; ?>" placeholder="<?php echo $entry_postcode; ?>" id="input-postcode" class="form-control" />
-              <?php if ($error_postcode) { ?>
-              <div class="text-danger"><?php echo $error_postcode; ?></div>
               <?php } ?>
             </div>
           </div>
